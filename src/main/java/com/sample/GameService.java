@@ -20,7 +20,6 @@ public class GameService {
 
         }else if(type.equals(GameType.STRATAGY)){
             brands.add("Age of Empire");
-            brands.add("Cities");
 
         }else if(type.equals(GameType.RACING)){
             brands.add("Need for Speed");
